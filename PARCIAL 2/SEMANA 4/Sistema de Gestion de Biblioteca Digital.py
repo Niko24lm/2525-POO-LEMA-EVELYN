@@ -193,3 +193,6 @@ if __name__ == "__main__":
 
     # Intentar dar de baja usuario con libro prestado
     biblioteca.dar_baja_usuario("U002")  # Luis tiene un libro prestado, debe fallar
+
+
+
